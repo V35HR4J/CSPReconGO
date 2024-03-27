@@ -22,7 +22,7 @@ It automates the extraction and analysis of domains from Content Security Policy
 1. **Download Source Code**: Clone the repository or download the source code to your local machine.
 
    ```shell
-   git clone https://github.com/yourusername/CspReconGo.git
+   git clone https://github.com/jhaddix/CspReconGo.git
    ```
 2. **Download Dependancies**:
    ```
